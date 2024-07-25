@@ -11,6 +11,6 @@ This project is simple yet useful demonstration of Jetpack Compose Basics. It is
 
 
 ## Screenshot
-![App Screenshot](https://github.com/taqi-m/bussiness-card-app/blob/master/images/Screenshot_20240725_154628_Business%20Card%20app.jpg?raw=true)
-
-
+<p align="center">
+  <img src="https://github.com/taqi-m/bussiness-card-app/blob/master/images/Screenshot_20240725_154628_Business%20Card%20app.jpg?raw=true" alt="App Screenshot"/>
+</p>
